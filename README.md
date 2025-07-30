@@ -6,11 +6,11 @@ bash
 Copy
 Edit
 📂 Vehicle-Speed-Detection/
-├── README.md           # Project documentation
-├── cars.mp4            # Input video file
-├── outpy.avi           # Output video with speed overlay (auto-generated)
-├── myhaar.xml          # Haar cascade classifier for vehicle detection
-└── speed_detection.py  # Main Python script
+README.md           # Project documentation
+cars.mp4            # Input video file
+outpy.avi           # Output video with speed overlay (auto-generated)
+myhaar.xml          # Haar cascade classifier for vehicle detection
+speed_detection.py  # Main Python script
 ~Technologies Used
 Python
 
